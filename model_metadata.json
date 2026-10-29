@@ -1,0 +1,25 @@
+{
+  "best_model_name": "RandomForest",
+  "feature_columns": [
+    "ApplicantIncome",
+    "CoapplicantIncome",
+    "LoanAmount",
+    "Loan_Amount_Term",
+    "Credit_History",
+    "Dependents",
+    "Gender",
+    "Married",
+    "Education",
+    "Self_Employed",
+    "Property_Area",
+    "Total_Income"
+  ],
+  "metrics": {
+    "accuracy": 0.9024390243902439,
+    "precision": 0.9041987449052209,
+    "recall": 0.9024390243902439,
+    "f1_score": 0.9023615950445218
+  },
+  "timestamp": "2026-10-29T23:02:05.664912",
+  "model_type": "classification"
+}
